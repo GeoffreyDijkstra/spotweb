@@ -11,7 +11,7 @@
     "xenji/prowlphp": "^1.0.0",
     "boxcar/boxcar": "dev-master",
     "ext-mbstring": "*",
-    "php": ">=5.3.0",
+    "php": "^5.6.0",
     "monolog/monolog": "^1.23.0",
     "uskr/nma-php": "^0.0.4",
     "laminas/laminas-xml2json": "^3.0",
